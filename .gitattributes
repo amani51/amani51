@@ -1,0 +1,6 @@
+# This repo exists to render a profile page, not to ship Python or SVG as a
+# product. Without this, Linguist counts the build scripts and labels the repo
+# "Python" on the profile card, which says nothing useful about the work.
+scripts/*   linguist-detectable=false
+assets/*    linguist-vendored
+*.svg       linguist-detectable=false
