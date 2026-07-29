@@ -75,9 +75,9 @@ My own work concentrates on the **dental and ERP backends**, 314 commits across 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amani51&hide_border=true&background=0B1F42&stroke=1B3B6B&ring=2BA8E0&fire=3EB54A&currStreakLabel=2BA8E0&sideLabels=E6EDF6&dates=8FA3BF&sideNums=E6EDF6&currStreakNum=3EB54A&excludeDaysLabel=8FA3BF" alt="Contribution streak" />
+<img src="assets/signal.svg" width="100%" alt="Contribution signal: 591 contributions in the last twelve months and 1,927 since July 2022, longest streak 23 days, busiest day 70 contributions." />
 
-<sub>Most of this work sits in private client repositories, so the trace is the honest signal.</sub>
+<sub>Rebuilt daily from live data. Most of this work sits in private client repositories, so the trace is the honest signal.</sub>
 
 </div>
 

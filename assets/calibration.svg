@@ -1,64 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" width="1200" height="336" role="img" aria-label="Calibration: Role, full-stack engineer, backend-leaning. Company, SkillsBIT, IT Solutions, Services and Academy. Based in Amman, Jordan, remote across MENA and EU. Core stack Django, ASP.NET Core, React, Next.js, PostgreSQL. Shipping vertical platforms for clinic, ERP, restaurant, EV charging and education. Origin, BSc Electrical Engineering to RF systems to software. 1,920 contributions logged since July 2022.">
-  <title>Calibration</title>
-  <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0C2149"/>
-      <stop offset="55%" stop-color="#091A38"/>
-      <stop offset="100%" stop-color="#061228"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2BA8E0"/>
-      <stop offset="100%" stop-color="#3EB54A"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3EB54A" stop-opacity="0.13"/>
-      <stop offset="60%" stop-color="#2BA8E0" stop-opacity="0.04"/>
-      <stop offset="100%" stop-color="#2BA8E0" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="r"><rect x="1" y="1" width="1198" height="334" rx="16"/></clipPath>
-  </defs>
-
-  <g clip-path="url(#r)">
-    <rect width="1200" height="336" fill="url(#card)"/>
-    <rect width="1200" height="336" fill="url(#glow)"/>
-    <rect x="0" y="0" width="5" height="336" fill="url(#edge)"/>
-  </g>
-  <rect x="1" y="1" width="1198" height="334" rx="16" fill="none" stroke="#17376A" stroke-width="1.5"/>
-
-  <!-- header -->
-  <text x="52" y="54" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13"
-        font-weight="600" letter-spacing="4.5" fill="#2BA8E0">CALIBRATION</text>
-  <line x1="196" y1="49" x2="806" y2="49" stroke="#17376A" stroke-width="1"/>
-
-  <!-- rows -->
-  <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" letter-spacing="2.6" fill="#7E93B2">
-    <text x="52" y="102">ROLE</text>
-    <text x="52" y="140">COMPANY</text>
-    <text x="52" y="178">BASED</text>
-    <text x="52" y="216">CORE</text>
-    <text x="52" y="254">SHIPPING</text>
-    <text x="52" y="292">ORIGIN</text>
-  </g>
-  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">
-    <text x="212" y="102">Full-stack engineer, backend-leaning</text>
-    <text x="212" y="140">SkillsBIT <tspan fill="#54708F">·</tspan> IT Solutions <tspan fill="#54708F">/</tspan> Services <tspan fill="#54708F">/</tspan> Academy</text>
-    <text x="212" y="178">Amman, Jordan <tspan fill="#54708F">·</tspan> remote across MENA and EU</text>
-    <text x="212" y="216">Django <tspan fill="#54708F">·</tspan> ASP.NET Core <tspan fill="#54708F">·</tspan> React <tspan fill="#54708F">·</tspan> Next.js <tspan fill="#54708F">·</tspan> PostgreSQL</text>
-    <text x="212" y="254">Vertical platforms<tspan fill="#54708F">:</tspan> clinic, ERP, restaurant, EV, education</text>
-    <text x="212" y="292">BSc Electrical Engineering <tspan fill="#3EB54A">→</tspan> RF systems <tspan fill="#3EB54A">→</tspan> software</text>
-  </g>
-
-  <!-- hairlines -->
-  <g stroke="#102C57" stroke-width="1">
-    <line x1="52" y1="117" x2="1148" y2="117"/>
-    <line x1="52" y1="155" x2="1148" y2="155"/>
-    <line x1="52" y1="193" x2="1148" y2="193"/>
-    <line x1="52" y1="231" x2="1148" y2="231"/>
-    <line x1="52" y1="269" x2="1148" y2="269"/>
-  </g>
-
-  <!-- stat -->
-  <circle cx="824" cy="49" r="4" fill="#3EB54A"/>
-  <text x="1148" y="54" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace"
-        font-size="12.5" letter-spacing="1.6" fill="#7E93B2">1,920 CONTRIBUTIONS SINCE JUL 2022</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 336" width="1200" height="336" role="img" aria-label="Calibration: ROLE, Full-stack engineer, backend-leaning; COMPANY, SkillsBIT · IT Solutions / Services / Academy; BASED, Amman, Jordan · remote across MENA and EU; CORE, Django · ASP.NET Core · React · Next.js · PostgreSQL; SHIPPING, Vertical platforms: clinic, ERP, restaurant, EV, education; ORIGIN, BSc Electrical Engineering > RF systems > software. 1,927 contributions since July 2022.">
+<title>Calibration</title>
+<defs>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0C2149"/><stop offset="55%" stop-color="#091A38"/><stop offset="100%" stop-color="#061228"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2BA8E0"/><stop offset="100%" stop-color="#3EB54A"/></linearGradient>
+<clipPath id="r"><rect x="1" y="1" width="1198" height="334" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#r)"><rect width="1200" height="336" fill="url(#card)"/><rect x="0" y="0" width="5" height="336" fill="url(#edge)"/></g>
+<rect x="1" y="1" width="1198" height="334" rx="16" fill="none" stroke="#17376A" stroke-width="1.5"/>
+<text x="52" y="54" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="600" letter-spacing="4.5" fill="#2BA8E0">CALIBRATION</text>
+<line x1="196" y1="49" x2="806" y2="49" stroke="#17376A" stroke-width="1"/>
+<circle cx="824" cy="49" r="4" fill="#3EB54A"/>
+<text x="1148" y="54" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="1.6" fill="#7E93B2">1,927 CONTRIBUTIONS SINCE JUL 2022</text>
+<text x="52" y="102" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">ROLE</text>
+<text x="52" y="140" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">COMPANY</text>
+<text x="52" y="178" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">BASED</text>
+<text x="52" y="216" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">CORE</text>
+<text x="52" y="254" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">SHIPPING</text>
+<text x="52" y="292" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" font-weight="400" letter-spacing="2.6" fill="#7E93B2">ORIGIN</text>
+<text x="212" y="102" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">Full-stack engineer, backend-leaning</text>
+<text x="212" y="140" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">SkillsBIT <tspan fill="#54708F">·</tspan> IT Solutions <tspan fill="#54708F">/</tspan> Services <tspan fill="#54708F">/</tspan> Academy</text>
+<text x="212" y="178" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">Amman, Jordan <tspan fill="#54708F">·</tspan> remote across MENA and EU</text>
+<text x="212" y="216" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">Django <tspan fill="#54708F">·</tspan> ASP.NET Core <tspan fill="#54708F">·</tspan> React <tspan fill="#54708F">·</tspan> Next.js <tspan fill="#54708F">·</tspan> PostgreSQL</text>
+<text x="212" y="254" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">Vertical platforms<tspan fill="#54708F">:</tspan> clinic, ERP, restaurant, EV, education</text>
+<text x="212" y="292" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16.5" fill="#E6EDF6">BSc Electrical Engineering <tspan fill="#3EB54A">&#8594;</tspan> RF systems <tspan fill="#3EB54A">&#8594;</tspan> software</text>
+<line x1="52" y1="117" x2="1148" y2="117" stroke="#102C57" stroke-width="1"/>
+<line x1="52" y1="155" x2="1148" y2="155" stroke="#102C57" stroke-width="1"/>
+<line x1="52" y1="193" x2="1148" y2="193" stroke="#102C57" stroke-width="1"/>
+<line x1="52" y1="231" x2="1148" y2="231" stroke="#102C57" stroke-width="1"/>
+<line x1="52" y1="269" x2="1148" y2="269" stroke="#102C57" stroke-width="1"/>
 </svg>
