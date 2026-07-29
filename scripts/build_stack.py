@@ -30,7 +30,9 @@ NAMES = {
 }
 
 SIZE, GAP, LABEL_X, ICON_X = 62, 18, 52, 212
-HEIGHT = 372
+HEIGHT = 428
+PRACTICES = ("Test-driven development   ·   REST API design   ·   Remote pair-programming"
+             "   ·   Code review   ·   Mentoring")
 FLOAT_PERIOD = 3.4      # seconds for one full bob
 FLOAT_STEP = 0.16       # phase offset between neighbours, makes the wave
 FLOAT_RISE = 7          # pixels
@@ -107,6 +109,17 @@ def build():
             parts.append('<line x1="52" y1="{0}" x2="1148" y2="{0}" stroke="#102C57" '
                          'stroke-width="1"/>'.format(rule))
         y += SIZE + 28
+
+    # practices footer, so "how I work" sits inside the card instead of orphaned below it
+    rule_y = y - 4
+    parts.append('<line x1="52" y1="{0}" x2="1148" y2="{0}" stroke="#102C57" '
+                 'stroke-width="1"/>'.format(rule_y))
+    parts.append('<text x="{x}" y="{y}" font-family="SFMono-Regular, Consolas, Menlo, monospace" '
+                 'font-size="12.5" letter-spacing="2.6" fill="#7E93B2">HOW I WORK</text>'
+                 .format(x=LABEL_X, y=rule_y + 32))
+    parts.append('<text x="{x}" y="{y}" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" '
+                 'font-size="13.5" fill="#93A8C6">{t}</text>'
+                 .format(x=ICON_X, y=rule_y + 32, t=esc(PRACTICES)))
 
     parts.append("</svg>")
     return "\n".join(parts)

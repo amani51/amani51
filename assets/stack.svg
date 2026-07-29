@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 372" width="1200" height="372" role="img" aria-label="Stack. FRONTEND: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Bootstrap; BACKEND: Python, Django, C#, .NET, Node.js, Express, MATLAB; DATA AND OPS: PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 428" width="1200" height="428" role="img" aria-label="Stack. FRONTEND: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Bootstrap; BACKEND: Python, Django, C#, .NET, Node.js, Express, MATLAB; DATA AND OPS: PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku">
 <title>Stack</title>
 <style>
   .in{animation:enter .5s cubic-bezier(.2,.7,.3,1) both}
@@ -10,10 +10,10 @@
 <defs>
 <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0C2149"/><stop offset="55%" stop-color="#091A38"/><stop offset="100%" stop-color="#061228"/></linearGradient>
 <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2BA8E0"/><stop offset="100%" stop-color="#3EB54A"/></linearGradient>
-<clipPath id="rc"><rect x="1" y="1" width="1198" height="370" rx="16"/></clipPath>
+<clipPath id="rc"><rect x="1" y="1" width="1198" height="426" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#rc)"><rect width="1200" height="372" fill="url(#card)"/><rect x="0" y="0" width="5" height="372" fill="url(#edge)"/></g>
-<rect x="1" y="1" width="1198" height="370" rx="16" fill="none" stroke="#17376A" stroke-width="1.5"/>
+<g clip-path="url(#rc)"><rect width="1200" height="428" fill="url(#card)"/><rect x="0" y="0" width="5" height="428" fill="url(#edge)"/></g>
+<rect x="1" y="1" width="1198" height="426" rx="16" fill="none" stroke="#17376A" stroke-width="1.5"/>
 <text x="52" y="52" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="600" letter-spacing="4.5" fill="#2BA8E0">STACK</text>
 <line x1="128" y1="47" x2="1148" y2="47" stroke="#17376A" stroke-width="1"/>
 <text x="52" y="121.0" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" letter-spacing="2.6" fill="#7E93B2">FRONTEND</text>
@@ -271,4 +271,7 @@
         </g>
         
   </svg></g></g>
+<line x1="52" y1="352" x2="1148" y2="352" stroke="#102C57" stroke-width="1"/>
+<text x="52" y="384" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" letter-spacing="2.6" fill="#7E93B2">HOW I WORK</text>
+<text x="212" y="384" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#93A8C6">Test-driven development   ·   REST API design   ·   Remote pair-programming   ·   Code review   ·   Mentoring</text>
 </svg>

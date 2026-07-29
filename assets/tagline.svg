@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="Electrical engineer turned full-stack developer / I build production systems, not demos / Django  ·  ASP.NET Core  ·  React  ·  PostgreSQL / Measure, don't guess.">
+<title>Tagline</title>
+<style>
+  .l{opacity:0;animation:cycle 14.4s ease-in-out infinite}
+  @keyframes cycle{
+    0%{opacity:0;transform:translateY(4px)}
+    2.0%{opacity:1;transform:none}
+    21.0%{opacity:1;transform:none}
+    25.0%{opacity:0;transform:translateY(-4px)}
+    100%{opacity:0}
+  }
+  @media (prefers-reduced-motion:reduce){.l{animation:none}.l:first-of-type{opacity:1}}
+ </style>
+<text class="l" style="animation-delay:0.00s" x="600" y="34" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="19" font-weight="500" letter-spacing="0.4" fill="#2BA8E0">Electrical engineer turned full-stack developer</text>
+<text class="l" style="animation-delay:3.60s" x="600" y="34" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="19" font-weight="500" letter-spacing="0.4" fill="#2BA8E0">I build production systems, not demos</text>
+<text class="l" style="animation-delay:7.20s" x="600" y="34" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="19" font-weight="500" letter-spacing="0.4" fill="#2BA8E0">Django  ·  ASP.NET Core  ·  React  ·  PostgreSQL</text>
+<text class="l" style="animation-delay:10.80s" x="600" y="34" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="19" font-weight="500" letter-spacing="0.4" fill="#2BA8E0">Measure, don't guess.</text>
+</svg>

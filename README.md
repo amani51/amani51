@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Amani M AL-Zoubi, Full-Stack Engineer at SkillsBIT" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=2BA8E0&center=true&vCenter=true&width=780&height=45&lines=Electrical+engineer+turned+full-stack+developer;I+build+production+systems%2C+not+demos;Django+%C2%B7+ASP.NET+Core+%C2%B7+React+%C2%B7+PostgreSQL;Measure%2C+don%27t+guess." alt="Electrical engineer turned full-stack developer" />
+<img src="assets/tagline.svg" width="100%" alt="Electrical engineer turned full-stack developer. I build production systems, not demos. Django, ASP.NET Core, React, PostgreSQL. Measure, don't guess." />
 
 <br/>
 
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-<img src="assets/calibration.svg" width="100%" alt="Calibration: full-stack engineer, backend-leaning, at SkillsBIT in Amman, Jordan. Core stack Django, ASP.NET Core, React, Next.js and PostgreSQL. Shipping vertical platforms for clinic, ERP, restaurant, EV charging and education. Background: BSc Electrical Engineering, then RF systems, then software. 1,920 contributions since July 2022." />
+<img src="assets/calibration.svg" width="100%" alt="Calibration: full-stack engineer, backend-leaning, at SkillsBIT in Amman, Jordan. Core stack Django, ASP.NET Core, React, Next.js and PostgreSQL. Shipping vertical platforms for clinic, ERP, restaurant, EV charging and education. Background: BSc Electrical Engineering, then RF systems, then software. Total contributions since July 2022." />
 </div>
 
 ## ▸ About
@@ -33,7 +33,6 @@ I care about REST APIs that are boring to consume, data models that survive the 
 <img src="assets/stack.svg" width="100%" alt="Stack. Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Bootstrap. Backend and languages: Python, Django, C#, .NET, Node.js, Express, MATLAB. Data and ops: PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku." />
 </div>
 
-**How I work** &nbsp;·&nbsp; test-driven development &nbsp;·&nbsp; REST API design &nbsp;·&nbsp; remote pair-programming &nbsp;·&nbsp; code review &nbsp;·&nbsp; mentoring junior developers
 
 ## ▸ At SkillsBIT
 
@@ -61,7 +60,7 @@ My own work concentrates on the **dental and ERP backends**, 314 commits across 
 
 <div align="center">
 
-<img src="assets/signal.svg" width="100%" alt="Contribution signal: 591 contributions in the last twelve months and 1,927 since July 2022, longest streak 23 days, busiest day 70 contributions." />
+<img src="assets/signal.svg" width="100%" alt="Contribution heatmap for the last twelve months, with totals since July 2022, longest streak and busiest day. Rebuilt daily." />
 
 <sub>Rebuilt daily from live data. Most of this work sits in private client repositories, so the trace is the honest signal.</sub>
 
@@ -69,23 +68,9 @@ My own work concentrates on the **dental and ERP backends**, 314 commits across 
 
 ## ▸ Trajectory
 
-Four disciplines, one direction. Each one fed the next.
-
-**`01`** &nbsp; **RF Engineer**, SESAME Synchrotron &nbsp;·&nbsp; *Jun 2021 → Jul 2022*
-> Analysed RF cavities, wrote MATLAB and Python simulations to optimise system performance, and ran high-precision measurements on RF devices. Learned to trust instruments over intuition.
-
-**`02`** &nbsp; **Teaching Assistant, Coding Program**, ASAC &nbsp;·&nbsp; *Mar 2023 → Mar 2024*
-> Mentored bootcamp developers, debugged their code, shaped curriculum, and assessed progress through technical interviews. Teaching a thing is how you find out whether you know it.
-
-**`03`** &nbsp; **AI Prompt Engineer**, MENADEVS &nbsp;·&nbsp; *Mar 2024 → Dec 2024*
-> Designed and iterated prompts for generative models across several industries, running structured evaluations to reduce bias and make outputs reliable enough to ship.
-
-**`04`** &nbsp; **BTEC IT Internal Verifier and Assessor**, ISO Education Schools &nbsp;·&nbsp; *Jan 2025 → Present*
-> Verify assessment processes against BTEC and Pearson standards, review assessor decisions, and hold grading consistent across learner portfolios. Quality assurance, applied to people instead of code.
-
-**Education**
-`ASAC / Code Fellows` Full Stack Web Development, 900-hour intensive &nbsp;·&nbsp; 2022 to 2023
-`University of Jordan` BSc Electrical Engineering &nbsp;·&nbsp; 2014 to 2019
+<div align="center">
+<img src="assets/trajectory.svg" width="100%" alt="Trajectory. 01 RF Engineer at SESAME Synchrotron, Jun 2021 to Jul 2022: analysed RF cavities and wrote MATLAB and Python simulations. 02 Teaching Assistant, Coding Program at ASAC, Mar 2023 to Mar 2024: mentored bootcamp developers and shaped curriculum. 03 AI Prompt Engineer at MENADEVS, Mar 2024 to Dec 2024: designed and evaluated prompts for generative models. 04 BTEC IT Internal Verifier at ISO Education Schools, Jan 2025 to present: verify assessment against BTEC and Pearson standards. Education: ASAC and Code Fellows, Full Stack Web Development 900-hour intensive, 2022 to 2023; University of Jordan, BSc Electrical Engineering, 2014 to 2019." />
+</div>
 
 ## ▸ Contact
 
