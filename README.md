@@ -7,6 +7,7 @@
 <br/>
 
 <a href="mailto:amani.alzoubi@outlook.com"><img src="https://img.shields.io/badge/EMAIL-amani.alzoubi%40outlook.com-F5A623?style=flat-square&labelColor=0B0E14&color=F5A623" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/amani-m-al-zoubi-793635232/"><img src="https://img.shields.io/badge/LINKEDIN-amani%20m%20al--zoubi-0B0E14?style=flat-square&labelColor=0B0E14&color=8B949E" alt="LinkedIn" /></a>
 <a href="https://www.skilsbit.com/"><img src="https://img.shields.io/badge/SKILLSBIT-skilsbit.com-0B0E14?style=flat-square&labelColor=0B0E14&color=8B949E" alt="SkillsBIT" /></a>
 <img src="https://img.shields.io/badge/AMMAN-JORDAN-0B0E14?style=flat-square&labelColor=0B0E14&color=8B949E" alt="Amman, Jordan" />
 
@@ -46,9 +47,11 @@ I care about REST APIs that are boring to consume, data models that survive the 
 <img src="https://skillicons.dev/icons?i=py,django,cs,dotnet,nodejs,express,matlab&theme=dark" alt="Python, Django, C#, .NET, Node.js, Express, MATLAB" />
 
 <sub><b>DATA &amp; DELIVERY</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,postman,vercel&theme=dark" alt="PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,postman,vercel,netlify,heroku&theme=dark" alt="PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku" />
 
 </div>
+
+**How I work** — test-driven development · REST API design · remote pair-programming · code review · mentoring junior developers
 
 ## ▸ Building now — SkillsBIT
 
@@ -153,6 +156,8 @@ Open to full-time, remote and contract work. The fastest way to reach me is emai
 <br/>
 
 <a href="mailto:amani.alzoubi@outlook.com"><img src="https://img.shields.io/badge/amani.alzoubi%40outlook.com-F5A623?style=for-the-badge&labelColor=0B0E14&color=F5A623&logoColor=0B0E14" alt="Email Amani" /></a>
+<a href="https://www.linkedin.com/in/amani-m-al-zoubi-793635232/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&labelColor=0B0E14&color=8B949E" alt="LinkedIn" /></a>
+<a href="https://wa.me/962772581996"><img src="https://img.shields.io/badge/%2B962%20772%20581%20996-0B0E14?style=for-the-badge&labelColor=0B0E14&color=8B949E" alt="Phone" /></a>
 
 <br/><br/>
 
