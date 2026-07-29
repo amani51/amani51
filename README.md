@@ -30,16 +30,7 @@ I care about REST APIs that are boring to consume, data models that survive the 
 ## ▸ Stack
 
 <div align="center">
-
-<sub><b>FRONTEND</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, HTML, CSS, Bootstrap" />
-
-<sub><b>BACKEND &amp; LANGUAGES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=py,django,cs,dotnet,nodejs,express,matlab&theme=dark" alt="Python, Django, C#, .NET, Node.js, Express, MATLAB" />
-
-<sub><b>DATA &amp; DELIVERY</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,postman,vercel,netlify,heroku&theme=dark" alt="PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku" />
-
+<img src="assets/stack.svg" width="100%" alt="Stack. Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Bootstrap. Backend and languages: Python, Django, C#, .NET, Node.js, Express, MATLAB. Data and ops: PostgreSQL, MongoDB, Git, GitHub, Postman, Vercel, Netlify, Heroku." />
 </div>
 
 **How I work** &nbsp;·&nbsp; test-driven development &nbsp;·&nbsp; REST API design &nbsp;·&nbsp; remote pair-programming &nbsp;·&nbsp; code review &nbsp;·&nbsp; mentoring junior developers
@@ -55,14 +46,9 @@ I care about REST APIs that are boring to consume, data models that survive the 
 
 SkillsBIT delivers IT solutions, services and an academy. On the product side we build vertical platforms: a complete front end and back end per industry, deployed per client with its own database and environment, so a business starts from a system that already runs and we fit it to the operation.
 
-| Platform | What it covers | Stack |
-| :--- | :--- | :--- |
-| 🦷 **Dental clinic** | Public catalog, online booking, patient portal and staff admin panel, with a front end built around an interactive 3D treatment calculator. | `Django REST` `Next.js 15` `React 19` `TypeScript` `Tailwind v4` |
-| 🏢 **ERP and HR** | Attendance, leave, employee profiles, documents and contracts, on a multi-tenant data model scoped per company. | `Django` `DRF` `PostgreSQL` |
-| 🍽️ **Restaurant** | Menu, orders and day-to-day operations management. | `Django` `PostgreSQL` |
-| 🔌 **EV charging** | Charging network platform: accounts, sites and charging sessions. | `Django` `PostgreSQL` |
-| 🎓 **Education** | Student enrolment and registration, events and FAQ, plus a separate examination platform. | `Django` `DRF` |
-| ⚙️ **Platform API** | The core SkillsBIT services API behind the product line. | `Django 5.2` `DRF 3.17` |
+<div align="center">
+<img src="assets/platforms.svg" width="100%" alt="Platforms built at SkillsBIT, front end and back end, deployed per client. Dental clinic: public catalog, online booking, patient portal and staff admin, with a 3D treatment calculator, on Django REST, Next.js 15 and TypeScript. ERP and HR: attendance, leave, employee profiles, documents and contracts on a multi-tenant data model, on Django, DRF and PostgreSQL. Restaurant: menu, orders and operations management. EV charging: accounts, sites and charging sessions. Education: enrolment, registration, events and examinations. Platform API: the core SkillsBIT services API." />
+</div>
 
 My own work concentrates on the **dental and ERP backends**, 314 commits across them this year. These repositories are private, though I am glad to walk through the architecture and the trade-offs in a call.
 
