@@ -57,7 +57,14 @@ I care about REST APIs that are boring to consume, data models that survive the 
 
 ## ▸ At SkillsBIT
 
-**[SkillsBIT](https://www.skilsbit.com/)** delivers IT solutions, services and an academy. On the product side we build vertical platforms: a complete front end and back end per industry, deployed per client with its own database and environment, so a business starts from a system that already runs and we fit it to the operation.
+<a href="https://www.skilsbit.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png" />
+    <img src="assets/logo-light.png" width="260" alt="SkillsBIT, IT Solutions and Services Academy" />
+  </picture>
+</a>
+
+SkillsBIT delivers IT solutions, services and an academy. On the product side we build vertical platforms: a complete front end and back end per industry, deployed per client with its own database and environment, so a business starts from a system that already runs and we fit it to the operation.
 
 | Platform | What it covers | Stack |
 | :--- | :--- | :--- |
