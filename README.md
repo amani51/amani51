@@ -75,41 +75,6 @@ My own work concentrates on the **dental and ERP backends**, 314 commits across 
 <a href="https://www.skilsbit.com/"><img src="https://img.shields.io/badge/Need%20a%20platform%20for%20your%20business%3F%20%20%E2%86%92%20%20skilsbit.com-3EB54A?style=for-the-badge&labelColor=0B1F42&color=3EB54A" alt="Visit skilsbit.com" /></a>
 </div>
 
-## ▸ Selected projects
-
-Team products I built and shipped as a working engineer, not tutorials.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌙 Dhikraa
-An Islamic companion app covering Ramadan countdown, prayer times, Athkar Al-Muslim, Quran recitations, task organisation and learning quizzes.
-
-`Next.js` · `Django` · `PostgreSQL` · `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Twitter Story
-A desktop analytics tool: profile insights, the top ten trends in Jordan and worldwide, hashtag and keyword search, tweet composing, and **sentiment analysis** across a user's timeline.
-
-`Python` · `Tkinter` · `Pandas` · `NumPy` · `ML`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🏟️ World Cup 2022
-A portal for the Qatar World Cup covering team profiles, match venues, hotel bookings near stadiums, fan comments and league news.
-
-`React` · `Node.js` · `Express` · `MongoDB`
-
-</td>
-</tr>
-</table>
-
 ## ▸ Signal
 
 <div align="center">
