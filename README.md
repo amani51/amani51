@@ -13,20 +13,9 @@
 
 </div>
 
-```
-┌── CALIBRATION ────────────────────────────────────────────────────┐
-│                                                                   │
-│   ROLE        Full-stack engineer, backend-leaning                │
-│   COMPANY     SkillsBIT · IT Solutions / Services / Academy       │
-│   BASED       Amman, Jordan · remote across MENA and EU           │
-│   CORE        Django · ASP.NET Core · React · Next.js · Postgres  │
-│   SHIPPING    Vertical platforms: clinic, ERP, restaurant, EV     │
-│   ORIGIN      BSc Electrical Engineering → RF systems → software  │
-│                                                                   │
-│   ● 1,920 contributions logged since Jul 2022                     │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<img src="assets/calibration.svg" width="100%" alt="Calibration: full-stack engineer, backend-leaning, at SkillsBIT in Amman, Jordan. Core stack Django, ASP.NET Core, React, Next.js and PostgreSQL. Shipping vertical platforms for clinic, ERP, restaurant, EV charging and education. Background: BSc Electrical Engineering, then RF systems, then software. 1,920 contributions since July 2022." />
+</div>
 
 ## ▸ About
 
