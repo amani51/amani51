@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 40" width="420" height="40" role="img" aria-label="Full-stack developer, front end and API / Both ends of the same system / Django  ·  DRF  ·  Next.js  ·  TypeScript  ·  PostgreSQL / Amman, Jordan  ·  open to remote">
+<title>Tagline</title>
+<style>
+  .l{opacity:0;animation:cyc 14.4s ease-in-out infinite}
+  @keyframes cyc{0%{opacity:0;transform:translateY(4px)}2.0%{opacity:1;transform:none}21.0%{opacity:1;transform:none}25.0%{opacity:0;transform:translateY(-4px)}100%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.l{animation:none}.l:first-of-type{opacity:1}}
+ </style>
+<text class="l" style="animation-delay:0.00s" x="210.0" y="24.6" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="500" fill="#2BA8E0">Full-stack developer, front end and API</text>
+<text class="l" style="animation-delay:3.60s" x="210.0" y="24.6" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="500" fill="#2BA8E0">Both ends of the same system</text>
+<text class="l" style="animation-delay:7.20s" x="210.0" y="24.6" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="500" fill="#2BA8E0">Django  ·  DRF  ·  Next.js  ·  TypeScript  ·  PostgreSQL</text>
+<text class="l" style="animation-delay:10.80s" x="210.0" y="24.6" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="500" fill="#2BA8E0">Amman, Jordan  ·  open to remote</text>
+</svg>

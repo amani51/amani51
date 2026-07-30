@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 412" width="420" height="412" role="img" aria-label="Calibration. ROLE, Full-stack developer, front end and API; COMPANY, SkillsBIT · enterprise IT, engineered to scale; BASED, Amman, Jordan · open to remote; FRONT END, Next.js · React · TypeScript · Tailwind · Three.js; BACK END, Django · DRF · PostgreSQL · ASP.NET Core; ORIGIN, BSc Electrical Engineering to RF systems to software. 1,936 CONTRIBUTIONS SINCE JUL 2022">
+<title>Calibration</title>
+
+<defs>
+<linearGradient id="cabg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0C2149"/><stop offset="55%" stop-color="#091A38"/><stop offset="100%" stop-color="#061228"/></linearGradient>
+<linearGradient id="caed" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2BA8E0"/><stop offset="100%" stop-color="#3EB54A"/></linearGradient>
+<clipPath id="cacl"><rect x="1" y="1" width="418" height="410" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#cacl)"><rect width="420" height="412" fill="url(#cabg)"/><rect x="0" y="0" width="4" height="412" fill="url(#caed)"/></g>
+<rect x="1" y="1" width="418" height="410" rx="14" fill="none" stroke="#17376A" stroke-width="1.5"/>
+<text x="18" y="34" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="3.2" fill="#2BA8E0">CALIBRATION</text>
+<line x1="149.6" y1="29.0" x2="402" y2="29.0" stroke="#17376A" stroke-width="1"/>
+<text x="18" y="54" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" letter-spacing="1.4" fill="#5F779A">1,936 CONTRIBUTIONS SINCE JUL 2022</text>
+<text x="18" y="82" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">ROLE</text>
+<text x="18" y="101" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">Full-stack developer, front end and API</text>
+<text x="18" y="132" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">COMPANY</text>
+<text x="18" y="151" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">SkillsBIT <tspan fill="#54708F">·</tspan> enterprise IT, engineered to scale</text>
+<text x="18" y="182" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">BASED</text>
+<text x="18" y="201" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">Amman, Jordan <tspan fill="#54708F">·</tspan> open to remote</text>
+<text x="18" y="232" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">FRONT END</text>
+<text x="18" y="251" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">Next.js <tspan fill="#54708F">·</tspan> React <tspan fill="#54708F">·</tspan> TypeScript <tspan fill="#54708F">·</tspan> Tailwind <tspan fill="#54708F">·</tspan> Three.js</text>
+<text x="18" y="282" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">BACK END</text>
+<text x="18" y="301" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">Django <tspan fill="#54708F">·</tspan> DRF <tspan fill="#54708F">·</tspan> PostgreSQL <tspan fill="#54708F">·</tspan> ASP.NET Core</text>
+<text x="18" y="332" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2.2" fill="#7E93B2">ORIGIN</text>
+<text x="18" y="351" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">BSc Electrical Engineering to RF systems to</text>
+<text x="18" y="369" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#E6EDF6">software</text>
+</svg>

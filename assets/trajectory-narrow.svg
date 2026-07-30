@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 732" width="420" height="732" role="img" aria-label="Trajectory. 01 RF Engineering Intern at SESAME Synchrotron, Jun 2021 to Jul 2022; 02 Teaching Assistant, Coding Program at ASAC, Mar 2023 to Mar 2024; 03 AI Prompt Engineer at MENADEVS, Mar 2024 to Dec 2024; 04 BTEC IT Internal Verifier at ISO Education Schools, Jan 2025 to Present. Education: ASAC / Code Fellows, Full Stack Web Development, 900-hour intensive, 2022 to 2023; University of Jordan, BSc Electrical Engineering, 2014 to 2019">
+<title>Trajectory</title>
+<style>
+  .e{animation:sl .55s cubic-bezier(.2,.7,.3,1) both}
+  @keyframes sl{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.e{animation:none}}
+ </style>
+<defs>
+<linearGradient id="tjbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0C2149"/><stop offset="55%" stop-color="#091A38"/><stop offset="100%" stop-color="#061228"/></linearGradient>
+<linearGradient id="tjed" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2BA8E0"/><stop offset="100%" stop-color="#3EB54A"/></linearGradient>
+<clipPath id="tjcl"><rect x="1" y="1" width="418" height="730" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#tjcl)"><rect width="420" height="732" fill="url(#tjbg)"/><rect x="0" y="0" width="4" height="732" fill="url(#tjed)"/></g>
+<rect x="1" y="1" width="418" height="730" rx="14" fill="none" stroke="#17376A" stroke-width="1.5"/>
+<text x="18" y="34" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="3.2" fill="#2BA8E0">TRAJECTORY</text>
+<line x1="139.3" y1="29.0" x2="402" y2="29.0" stroke="#17376A" stroke-width="1"/>
+<text x="18" y="54" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" letter-spacing="1.4" fill="#5F779A">FOUR DISCIPLINES, ONE DIRECTION</text>
+<line x1="32" y1="84.0" x2="32" y2="475.0" stroke="#153A6E" stroke-width="2"/>
+<g class="e" style="animation-delay:0.00s">
+<circle cx="32" cy="96.0" r="12" fill="#0B2044" stroke="#2BA8E0" stroke-width="2"/>
+<text x="32" y="100" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" font-weight="700" fill="#2BA8E0">01</text>
+<text x="60" y="92" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">RF Engineering Intern</text>
+<text x="60" y="123" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#7E93B2">SESAME SYNCHROTRON · JUN 2021 TO JUL 2022</text>
+<text x="60" y="144" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Analysed RF cavities and wrote MATLAB and</text>
+<text x="60" y="161" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Python to simulate and tune system performance.</text>
+<text x="60" y="178" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Learned to trust the instrument over the intuition.</text>
+</g>
+<g class="e" style="animation-delay:0.10s">
+<circle cx="32" cy="212.0" r="12" fill="#0B2044" stroke="#3EB54A" stroke-width="2"/>
+<text x="32" y="216" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" font-weight="700" fill="#3EB54A">02</text>
+<text x="60" y="208" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">Teaching Assistant, Coding Program</text>
+<text x="60" y="239" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#7E93B2">ASAC · MAR 2023 TO MAR 2024</text>
+<text x="60" y="260" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Mentored bootcamp developers through their first</text>
+<text x="60" y="277" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">production code, contributed to curriculum, and</text>
+<text x="60" y="294" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">assessed progress through technical interviews.</text>
+</g>
+<g class="e" style="animation-delay:0.20s">
+<circle cx="32" cy="328.0" r="12" fill="#0B2044" stroke="#2BA8E0" stroke-width="2"/>
+<text x="32" y="332" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" font-weight="700" fill="#2BA8E0">03</text>
+<text x="60" y="324" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">AI Prompt Engineer</text>
+<text x="60" y="355" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#7E93B2">MENADEVS · MAR 2024 TO DEC 2024</text>
+<text x="60" y="376" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Designed and iterated prompts for generative</text>
+<text x="60" y="393" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">models across several industries, running</text>
+<text x="60" y="410" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">structured evaluation to make outputs reliable</text>
+<text x="60" y="427" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">enough to ship.</text>
+</g>
+<g class="e" style="animation-delay:0.30s">
+<circle cx="32" cy="461.0" r="12" fill="#0B2044" stroke="#3EB54A" stroke-width="2"/>
+<text x="32" y="465" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" font-weight="700" fill="#3EB54A">04</text>
+<text x="60" y="457" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">BTEC IT Internal Verifier</text>
+<text x="60" y="488" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#7E93B2">ISO EDUCATION SCHOOLS · JAN 2025 TO</text>
+<text x="60" y="503" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#7E93B2">PRESENT</text>
+<text x="60" y="524" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Verify assessment against BTEC and Pearson</text>
+<text x="60" y="541" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">standards and hold grading consistent. Held</text>
+<text x="60" y="558" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">alongside the engineering work at SkillsBIT.</text>
+</g>
+<line x1="18" y1="584.0" x2="402" y2="584.0" stroke="#102C57" stroke-width="1"/>
+<text x="18" y="612" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF6">ASAC / Code Fellows</text>
+<text x="18" y="629" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#93A8C6">Full Stack Web Development, 900-hour intensive</text>
+<text x="18" y="645" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#5F779A">2022 to 2023</text>
+<text x="18" y="664" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E6EDF6">University of Jordan</text>
+<text x="18" y="681" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11.5" fill="#93A8C6">BSc Electrical Engineering</text>
+<text x="18" y="697" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10" letter-spacing="1.4" fill="#5F779A">2014 to 2019</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 1276" width="420" height="1276" role="img" aria-label="Selected systems. SkillsBIT platform: The live company site and the API behind it: service catalogue, enquiries, academy courses and enrolments, client project portal, support ticketing and role-based dashboards.; Dental clinic system: Front end and API. Public catalogue, online booking, patient portal and staff administration, with an interactive 3D tooth model mapped to FDI notation and a treatment cost calculator.; ERP and HR backend: Employee records, organisation structure and a ledger-backed leave engine on a multi-tenant data model scoped per company, with an append-only audit log.; PlugSpot: Personal project. An EV charging reservation API with geolocated stations, per-port scheduling and phone-number authentication localised for Jordan.; ISOEnroll and ISOExam: Personal projects built alongside my assessment work: admissions tracking with student registration and events, plus a separate examination platform.; And more in build: Further systems are in progress across the SkillsBIT product line and in my own repositories. Most of the code is private, so I am glad to walk through architecture on a call.">
+<title>Selected systems</title>
+<style>
+  .t{animation:up .55s cubic-bezier(.2,.7,.3,1) both}
+  @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.t{animation:none}}
+ </style>
+<defs>
+<linearGradient id="wkbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0C2149"/><stop offset="55%" stop-color="#091A38"/><stop offset="100%" stop-color="#061228"/></linearGradient>
+<linearGradient id="wked" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2BA8E0"/><stop offset="100%" stop-color="#3EB54A"/></linearGradient>
+<clipPath id="wkcl"><rect x="1" y="1" width="418" height="1274" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#wkcl)"><rect width="420" height="1276" fill="url(#wkbg)"/><rect x="0" y="0" width="4" height="1276" fill="url(#wked)"/></g>
+<rect x="1" y="1" width="418" height="1274" rx="14" fill="none" stroke="#17376A" stroke-width="1.5"/>
+<text x="18" y="34" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="3.2" fill="#2BA8E0">WORK</text>
+<line x1="77.3" y1="29.0" x2="402" y2="29.0" stroke="#17376A" stroke-width="1"/>
+<text x="18" y="54" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="9.5" letter-spacing="1.4" fill="#5F779A">SELECTED SYSTEMS, MOST OF THEM PRIVATE</text>
+<g class="t" style="animation-delay:0.00s">
+<rect x="18" y="74" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="96" width="42" height="3" rx="1.5" fill="#2BA8E0"/>
+<text x="382" y="100" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#2BA8E0">WEB</text>
+<text x="38" y="130" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">SkillsBIT platform</text>
+<text x="38" y="152" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">The live company site and the API behind it:</text>
+<text x="38" y="169" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">service catalogue, enquiries, academy courses</text>
+<text x="38" y="186" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">and enrolments, client project portal, support</text>
+<text x="38" y="203" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">ticketing and role-based dashboards.</text>
+<line x1="38" y1="226" x2="382" y2="226" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="246" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Next.js  ·  Django 5.2  ·  DRF 3.17  ·  PostgreSQL</text>
+</g>
+<g class="t" style="animation-delay:0.09s">
+<rect x="18" y="274" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="296" width="42" height="3" rx="1.5" fill="#3EB54A"/>
+<text x="382" y="300" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#3EB54A">DEN</text>
+<text x="38" y="330" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">Dental clinic system</text>
+<text x="38" y="352" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Front end and API. Public catalogue, online</text>
+<text x="38" y="369" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">booking, patient portal and staff administration,</text>
+<text x="38" y="386" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">with an interactive 3D tooth model mapped to FDI</text>
+<text x="38" y="403" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">notation and a treatment cost calculator.</text>
+<line x1="38" y1="426" x2="382" y2="426" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="446" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Next.js 15  ·  React 19  ·  Three.js  ·  Django REST</text>
+</g>
+<g class="t" style="animation-delay:0.18s">
+<rect x="18" y="474" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="496" width="42" height="3" rx="1.5" fill="#2BA8E0"/>
+<text x="382" y="500" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#2BA8E0">ERP</text>
+<text x="38" y="530" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">ERP and HR backend</text>
+<text x="38" y="552" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Employee records, organisation structure and a</text>
+<text x="38" y="569" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">ledger-backed leave engine on a multi-tenant data</text>
+<text x="38" y="586" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">model scoped per company, with an append-only</text>
+<text x="38" y="603" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">audit log.</text>
+<line x1="38" y1="626" x2="382" y2="626" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="646" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Django  ·  DRF  ·  PostgreSQL</text>
+</g>
+<g class="t" style="animation-delay:0.27s">
+<rect x="18" y="674" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="696" width="42" height="3" rx="1.5" fill="#3EB54A"/>
+<text x="382" y="700" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#3EB54A">EV</text>
+<text x="38" y="730" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">PlugSpot</text>
+<text x="38" y="752" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Personal project. An EV charging reservation API</text>
+<text x="38" y="769" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">with geolocated stations, per-port scheduling and</text>
+<text x="38" y="786" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">phone-number authentication localised for Jordan.</text>
+<line x1="38" y1="826" x2="382" y2="826" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="846" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Django 5.2  ·  DRF</text>
+</g>
+<g class="t" style="animation-delay:0.36s">
+<rect x="18" y="874" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="896" width="42" height="3" rx="1.5" fill="#2BA8E0"/>
+<text x="382" y="900" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#2BA8E0">EDU</text>
+<text x="38" y="930" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">ISOEnroll and ISOExam</text>
+<text x="38" y="952" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Personal projects built alongside my assessment</text>
+<text x="38" y="969" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">work: admissions tracking with student</text>
+<text x="38" y="986" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">registration and events, plus a separate</text>
+<text x="38" y="1003" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">examination platform.</text>
+<line x1="38" y1="1026" x2="382" y2="1026" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="1046" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Django 5.2  ·  DRF  ·  SimpleJWT</text>
+</g>
+<g class="t" style="animation-delay:0.45s">
+<rect x="18" y="1074" width="384" height="186" rx="12" fill="#0B2044" stroke="#17376A" stroke-width="1"/>
+<rect x="38" y="1096" width="42" height="3" rx="1.5" fill="#3EB54A"/>
+<text x="382" y="1100" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" font-weight="600" letter-spacing="2.2" fill="#3EB54A">+</text>
+<text x="38" y="1130" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#E6EDF6">And more in build</text>
+<text x="38" y="1152" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Further systems are in progress across the</text>
+<text x="38" y="1169" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">SkillsBIT product line and in my own repositories.</text>
+<text x="38" y="1186" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">Most of the code is private, so I am glad to walk</text>
+<text x="38" y="1203" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" fill="#93A8C6">through architecture on a call.</text>
+<line x1="38" y1="1226" x2="382" y2="1226" stroke="#153A6E" stroke-width="1"/>
+<text x="38" y="1246" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="0.6" fill="#5F779A">Django  ·  TypeScript  ·  PostgreSQL</text>
+</g>
+</svg>
