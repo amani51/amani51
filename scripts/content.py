@@ -7,6 +7,10 @@ from the private SkillsBIT repos, and raw commit counts (223 of 314 carry an AI
 co-author trailer, so volume is the weakest available proof).
 """
 
+# "exact"   -> 1,939 CONTRIBUTIONS SINCE JUL 2022
+# "rounded" -> 1,900+ CONTRIBUTIONS SINCE JUL 2022  (rounds down, never overstates)
+COUNT_STYLE = "exact"
+
 HERO_NAME = "AMANI M AL-ZOUBI"
 HERO_ROLE = "FULL-STACK DEVELOPER"
 HERO_ORG = "// SKILLSBIT"

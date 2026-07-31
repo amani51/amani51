@@ -129,6 +129,14 @@ def marked(value, arrow=k.GREEN, punct="#54708F"):
     return "".join(out)
 
 
+def fmt_count(n):
+    """Format a contribution total. Rounding always rounds DOWN, so the figure
+    printed is one she has already passed, never one she has not reached."""
+    if getattr(C, "COUNT_STYLE", "exact") == "rounded":
+        return "%s+" % format(n // 100 * 100, ",")
+    return format(n, ",")
+
+
 def plain(value):
     return re.sub(r"\s+", " ", value.replace("|>|", "to").replace("|", "")).strip()
 
@@ -162,7 +170,7 @@ def build_tagline(lay):
 
 
 def build_calibration(lay, stats):
-    strap = "%s CONTRIBUTIONS SINCE JUL %d" % (format(stats["total"], ","), FIRST_YEAR)
+    strap = "%s CONTRIBUTIONS SINCE JUL %d" % (fmt_count(stats["total"]), FIRST_YEAR)
     y = k.head_bottom(lay, strap) + (16 if lay.narrow else 24)
     rows, avail = [], lay.right - lay.value_x
     for key, val in C.CALIBRATION:
@@ -380,7 +388,7 @@ def build_signal(lay, stats):
                            1.5 if lay.narrow else 3.5, colour(d["contributionCount"])))
 
     sy = top + 7 * step + (26 if lay.narrow else 34)
-    tiles = [(format(stats["total"], ","), "TOTAL SINCE JUL %d" % FIRST_YEAR),
+    tiles = [(fmt_count(stats["total"]), "TOTAL SINCE JUL %d" % FIRST_YEAR),
              (str(stats["longest"]), "LONGEST STREAK, DAYS"),
              (str(stats["active"]), "ACTIVE DAYS")]
     if lay.narrow:
