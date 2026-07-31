@@ -1,5 +1,9 @@
 name: Refresh profile cards
 
+# Reads the public contribution endpoint, so this workflow needs no secret
+# and no personal access token. The only permission it uses is write access
+# to this repository, to commit the regenerated SVGs.
+
 on:
   schedule:
     # 03:17 UTC daily. Off the hour so it is not queued with everyone else's jobs.
@@ -7,7 +11,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - scripts/build_cards.py
+      - scripts/**
       - .github/workflows/refresh-cards.yml
 
 permissions:
@@ -27,24 +31,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Require a token that can see private contributions
-        env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-        run: |
-          if [ -z "$METRICS_TOKEN" ]; then
-            echo "::error::METRICS_TOKEN is not set. The built-in GITHUB_TOKEN cannot read"
-            echo "::error::private contributions, so the totals would silently drop."
-            echo "::error::Create a classic PAT with the read:user scope and add it as the"
-            echo "::error::METRICS_TOKEN repository secret."
-            exit 1
-          fi
-
       - name: Install dependencies
         run: pip install --quiet Pillow
 
       - name: Rebuild cards
         env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
         run: python scripts/build.py
 

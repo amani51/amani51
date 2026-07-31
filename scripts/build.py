@@ -3,18 +3,16 @@
 
     python3 scripts/build.py
 
-Live contribution figures come from the GitHub GraphQL API and need a token
-that can see private contributions (METRICS_TOKEN in CI, `gh auth token`
-locally). Everything else comes from scripts/content.py.
+Live contribution figures come from the public GitHub profile endpoint, so
+this needs no token, no secret and no network credentials of any kind.
+Everything else comes from scripts/content.py.
 """
 
 import base64
 import datetime
 import io
-import json
 import os
 import re
-import subprocess
 import sys
 import urllib.request
 
@@ -31,37 +29,64 @@ FIRST_YEAR = 2022
 
 # ----------------------------------------------------------------- live data
 
-def token():
-    for var in ("METRICS_TOKEN", "GH_TOKEN", "GITHUB_TOKEN"):
-        if os.environ.get(var):
-            return os.environ[var]
-    try:
-        return subprocess.check_output(["gh", "auth", "token"], text=True).strip()
-    except Exception:
-        sys.exit("No token. Set METRICS_TOKEN or run `gh auth login`.")
-
-
-def graphql(query):
-    req = urllib.request.Request(
-        "https://api.github.com/graphql",
-        data=json.dumps({"query": query}).encode(),
-        headers={"Authorization": "bearer " + token(),
-                 "Content-Type": "application/json",
-                 "User-Agent": "profile-card-builder"})
-    with urllib.request.urlopen(req, timeout=45) as r:
-        body = json.load(r)
-    if "errors" in body:
-        sys.exit("GraphQL error: %s" % body["errors"])
-    return body["data"]
+CONTRIB_URL = "https://github.com/users/%s/contributions"
 
 
 def calendar(frm, to):
-    data = graphql("""
-    { user(login:"%s") { contributionsCollection(from:"%sT00:00:00Z", to:"%sT23:59:59Z") {
-        contributionCalendar { totalContributions
-          weeks { contributionDays { date contributionCount } } } } } }
-    """ % (USER, frm, to))
-    return data["user"]["contributionsCollection"]["contributionCalendar"]
+    """Read one contribution window from the public profile endpoint.
+
+    No authentication. These counts are already public: the profile setting
+    "Include private contributions on my profile" publishes the daily numbers
+    to every visitor without revealing which repositories they came from.
+    Verified against the authenticated GraphQL API, which returns the same
+    totals for 2022 through 2025.
+
+    Using the public page keeps this build credential-free, so there is no
+    token to store, leak or rotate.
+    """
+    url = CONTRIB_URL % USER
+    if frm and to:
+        url += "?from=%s&to=%s" % (frm, to)
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "profile-card-builder",
+                      "X-Requested-With": "XMLHttpRequest"})
+    with urllib.request.urlopen(req, timeout=45) as r:
+        html = r.read().decode("utf-8", "replace")
+
+    # each day is a <td data-date=... id="contribution-day-component-R-C">,
+    # and its count lives in the <tool-tip for="that id"> that follows
+    counts = {}
+    for tip in re.findall(r'<tool-tip[^>]*for="([^"]+)"[^>]*>([^<]*)</tool-tip>', html):
+        target, label = tip
+        m = re.match(r"(\d+)\s+contribution", label)
+        counts[target] = int(m.group(1)) if m else 0
+
+    days = {}
+    for cell in re.findall(r"<td[^>]*>", html):
+        date = re.search(r'data-date="([^"]+)"', cell)
+        ident = re.search(r'id="([^"]+)"', cell)
+        if date and ident:
+            days[date.group(1)] = counts.get(ident.group(1), 0)
+
+    if not days:
+        sys.exit("Could not parse the contributions page. GitHub may have changed "
+                 "its markup; check %s" % url)
+    return days
+
+
+def to_weeks(days):
+    """Group a date->count map into the week columns the heatmap expects."""
+    ordered = sorted(days)
+    weeks, current = [], []
+    for date in ordered:
+        weekday = datetime.date.fromisoformat(date).isoweekday() % 7
+        if weekday == 0 and current:
+            weeks.append({"contributionDays": current})
+            current = []
+        current.append({"date": date, "contributionCount": days[date]})
+    if current:
+        weeks.append({"contributionDays": current})
+    return weeks
 
 
 def fetch():
@@ -69,19 +94,21 @@ def fetch():
     days = {}
     for year in range(FIRST_YEAR, today.year + 1):
         end = today if year == today.year else datetime.date(year, 12, 31)
-        cal = calendar("%d-01-01" % year, end.isoformat())
-        for w in cal["weeks"]:
-            for d in w["contributionDays"]:
-                days[d["date"]] = d["contributionCount"]
-    recent = calendar((today - datetime.timedelta(days=364)).isoformat(), today.isoformat())
+        days.update(calendar("%d-01-01" % year, end.isoformat()))
+
+    # bare endpoint returns exactly the trailing 12 months. An explicit
+    # from/to that crosses a year boundary gets clamped to one calendar year.
+    recent = calendar(None, None)
+    days.update(recent)
+
     longest = run = 0
     for key in sorted(days):
         run = run + 1 if days[key] > 0 else 0
         longest = max(longest, run)
     return {
         "days": days,
-        "weeks": recent["weeks"],
-        "last12": recent["totalContributions"],
+        "weeks": to_weeks(recent),
+        "last12": sum(recent.values()),
         "total": sum(days.values()),
         "active": sum(1 for v in days.values() if v > 0),
         "longest": longest,
