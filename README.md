@@ -98,24 +98,19 @@ Most of this code is private. I am glad to screen-share it and talk through the 
 
 Open to full-time, remote and contract work. Email reaches me fastest and I answer.
 
-<div align="center">
-<br/>
+<p align="center">
+  <a href="mailto:amani.alzoubi@outlook.com"><img src="https://img.shields.io/badge/amani.alzoubi%40outlook.com-2BA8E0?style=for-the-badge&labelColor=0B1F42&color=2BA8E0" alt="Email Amani" /></a>
+  <a href="https://www.linkedin.com/in/amani-m-al-zoubi-793635232/"><img src="https://img.shields.io/badge/LinkedIn-0B1F42?style=for-the-badge&labelColor=0B1F42&color=8FA3BF" alt="LinkedIn" /></a>
+</p>
 
-<a href="mailto:amani.alzoubi@outlook.com"><img src="https://img.shields.io/badge/amani.alzoubi%40outlook.com-2BA8E0?style=for-the-badge&labelColor=0B1F42&color=2BA8E0" alt="Email Amani" /></a>
-<a href="https://www.linkedin.com/in/amani-m-al-zoubi-793635232/"><img src="https://img.shields.io/badge/LinkedIn-0B1F42?style=for-the-badge&labelColor=0B1F42&color=8FA3BF" alt="LinkedIn" /></a>
+<p align="center"><sub><b>Work with SkillsBIT</b></sub></p>
 
-<br/>
+<p align="center">
+  <a href="mailto:info@skilsbit.com"><img src="https://img.shields.io/badge/info%40skilsbit.com-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT email" /></a>
+  <a href="tel:+962785705454"><img src="https://img.shields.io/badge/%2B962%2078%20570%205454-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT phone" /></a>
+  <a href="https://www.skilsbit.com/"><img src="https://img.shields.io/badge/skilsbit.com-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT website" /></a>
+</p>
 
-<sub><b>WORK WITH SKILLSBIT</b></sub><br/>
+<p align="center"><sub><i>Measure, don't guess.</i></sub></p>
 
-<a href="mailto:info@skilsbit.com"><img src="https://img.shields.io/badge/info%40skilsbit.com-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT email" /></a>
-<a href="tel:+962785705454"><img src="https://img.shields.io/badge/%2B962%2078%20570%205454-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT phone" /></a>
-<a href="https://www.skilsbit.com/"><img src="https://img.shields.io/badge/skilsbit.com-0B1F42?style=flat-square&labelColor=0B1F42&color=3EB54A" alt="SkillsBIT website" /></a>
-
-<br/><br/>
-
-<sub><i>Measure, don't guess.</i></sub>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-</div>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
