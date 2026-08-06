@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 318" width="1200" height="318" role="img" aria-label="Contribution heatmap for the last twelve months. 653 contributions in that period, 1,989 since July 2022, longest streak 23 days, 341 active days.">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 318" width="1200" height="318" role="img" aria-label="Contribution heatmap for the last twelve months. 655 contributions in that period, 1,991 since July 2022, longest streak 23 days, 342 active days.">
 <title>Contribution signal</title>
 <style>
   .c{animation:fade .55s ease-out both}
@@ -15,7 +15,7 @@
 <text x="52" y="52" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="13" font-weight="600" letter-spacing="4.5" fill="#2BA8E0">SIGNAL</text>
 <line x1="145.4" y1="47.0" x2="874.2" y2="47.0" stroke="#17376A" stroke-width="1"/>
 <circle cx="890.2" cy="47.0" r="4" fill="#3EB54A"/>
-<text x="1148" y="52" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" letter-spacing="1.6" fill="#7E93B2">653 IN THE LAST 12 MONTHS</text>
+<text x="1148" y="52" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12.5" letter-spacing="1.6" fill="#7E93B2">655 IN THE LAST 12 MONTHS</text>
 <text x="52" y="96" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.0" fill="#5F779A">Aug</text>
 <text x="152" y="96" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.0" fill="#5F779A">Sep</text>
 <text x="232" y="96" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11" letter-spacing="1.0" fill="#5F779A">Oct</text>
@@ -358,7 +358,7 @@
 <rect class="c" style="animation-delay:1.012s" x="972.0" y="184.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <rect class="c" style="animation-delay:1.012s" x="972.0" y="204.0" width="16" height="16" rx="3.5" fill="#3EB54A"/>
 <rect class="c" style="animation-delay:1.012s" x="972.0" y="224.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
-<rect class="c" style="animation-delay:1.034s" x="992.0" y="104.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
+<rect class="c" style="animation-delay:1.034s" x="992.0" y="104.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
 <rect class="c" style="animation-delay:1.034s" x="992.0" y="124.0" width="16" height="16" rx="3.5" fill="#17456B"/>
 <rect class="c" style="animation-delay:1.034s" x="992.0" y="144.0" width="16" height="16" rx="3.5" fill="#17456B"/>
 <rect class="c" style="animation-delay:1.034s" x="992.0" y="164.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
@@ -374,7 +374,7 @@
 <rect class="c" style="animation-delay:1.056s" x="1012.0" y="224.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
 <rect class="c" style="animation-delay:1.078s" x="1032.0" y="104.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
 <rect class="c" style="animation-delay:1.078s" x="1032.0" y="124.0" width="16" height="16" rx="3.5" fill="#17456B"/>
-<rect class="c" style="animation-delay:1.078s" x="1032.0" y="144.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
+<rect class="c" style="animation-delay:1.078s" x="1032.0" y="144.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
 <rect class="c" style="animation-delay:1.078s" x="1032.0" y="164.0" width="16" height="16" rx="3.5" fill="#3EB54A"/>
 <rect class="c" style="animation-delay:1.078s" x="1032.0" y="184.0" width="16" height="16" rx="3.5" fill="#3EB54A"/>
 <rect class="c" style="animation-delay:1.078s" x="1032.0" y="204.0" width="16" height="16" rx="3.5" fill="#17456B"/>
@@ -384,7 +384,7 @@
 <rect class="c" style="animation-delay:1.100s" x="1052.0" y="144.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <rect class="c" style="animation-delay:1.100s" x="1052.0" y="164.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <rect class="c" style="animation-delay:1.100s" x="1052.0" y="184.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
-<rect class="c" style="animation-delay:1.100s" x="1052.0" y="204.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
+<rect class="c" style="animation-delay:1.100s" x="1052.0" y="204.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
 <rect class="c" style="animation-delay:1.100s" x="1052.0" y="224.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
 <rect class="c" style="animation-delay:1.122s" x="1072.0" y="104.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <rect class="c" style="animation-delay:1.122s" x="1072.0" y="124.0" width="16" height="16" rx="3.5" fill="#17456B"/>
@@ -396,12 +396,13 @@
 <rect class="c" style="animation-delay:1.144s" x="1092.0" y="104.0" width="16" height="16" rx="3.5" fill="#1E7FA8"/>
 <rect class="c" style="animation-delay:1.144s" x="1092.0" y="124.0" width="16" height="16" rx="3.5" fill="#2BA8E0"/>
 <rect class="c" style="animation-delay:1.144s" x="1092.0" y="144.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
-<rect class="c" style="animation-delay:1.144s" x="1092.0" y="164.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
-<text x="52" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">1,989</text>
+<rect class="c" style="animation-delay:1.144s" x="1092.0" y="164.0" width="16" height="16" rx="3.5" fill="#17456B"/>
+<rect class="c" style="animation-delay:1.144s" x="1092.0" y="184.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
+<text x="52" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">1,991</text>
 <text x="52" y="297" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2" fill="#5F779A">TOTAL SINCE JUL 2022</text>
 <text x="280" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">23</text>
 <text x="280" y="297" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2" fill="#5F779A">LONGEST STREAK, DAYS</text>
-<text x="508" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">341</text>
+<text x="508" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">342</text>
 <text x="508" y="297" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2" fill="#5F779A">ACTIVE DAYS</text>
 <text x="994" y="280" text-anchor="end" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.6" fill="#5F779A">LESS</text>
 <rect x="1004" y="267" width="14" height="14" rx="3.5" fill="#0E2547"/>
