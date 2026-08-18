@@ -394,6 +394,7 @@
 <rect class="c" style="animation-delay:1.122s" x="1072.0" y="224.0" width="16" height="16" rx="3.5" fill="#17456B"/>
 <rect class="c" style="animation-delay:1.144s" x="1092.0" y="104.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <rect class="c" style="animation-delay:1.144s" x="1092.0" y="124.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
+<rect class="c" style="animation-delay:1.144s" x="1092.0" y="144.0" width="16" height="16" rx="3.5" fill="#0E2547"/>
 <text x="52" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">2,041</text>
 <text x="52" y="297" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="2" fill="#5F779A">TOTAL SINCE JUL 2022</text>
 <text x="280" y="278" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF6">23</text>
